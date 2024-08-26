@@ -1,0 +1,13 @@
+﻿  Game.cpp
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,87): warning C4244:         with
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,87): warning C4244:         [
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,87): warning C4244:             T=float
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,87): warning C4244:         ]
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,66): warning C4244:         with
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,66): warning C4244:         [
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,66): warning C4244:             T=float
+D:\Flappy-Bird\Flappy-Bird\Game.cpp(102,66): warning C4244:         ]
+  Flappy-Bird.vcxproj -> D:\Flappy-Bird\Debug\Flappy-Bird.exe
