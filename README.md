@@ -17,12 +17,41 @@ _Flap your way to glory in this retro-inspired clone of the legendary Flappy Bir
    
 _Simple but Challenging: Press the Spacebar to make the bird flap its wings. Your goal? Navigate through the gaps between pipes without crashing. The longer you survive, the higher your score!_
 
-### 🚀 Installation
+### 🚀 Getting Started
 
+__◼️Prerequisites__
  _Make sure you have the following before you start:_
 
-   _•SFML (Simple and Fast Multimedia Library)
-   •A C++ compiler_
+   _•SFML (Simple and Fast Multimedia Library)_ 
+   
+   _•A C++ compiler_
+
+  
+__1.Clone the Repository__
+
+```git clone https://github.com/samridheeghimire/Flappy-Bird.git```
+
+__2.Add Assets:__ 
+
+_•Ensure the assets are placed in the assets/ directory_
+
+__3.Build the Project:__
+
+_•Open the project in Visual Studio._
+
+_•Set the build configuration to Debug or Release._
+
+_•Build the project (Ctrl + Shift + B)._
+
+__4.Run the Game:__
+
+_•Press Ctrl + F5 to start the game without debugging._
+
+__◼️Controls__
+
+_•Enter: Start the game._
+
+_•Spacebar: Flap the bird's wings._
 
   ***ENJOY THE GAME!***
 
